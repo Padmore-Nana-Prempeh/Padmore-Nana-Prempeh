@@ -21,6 +21,12 @@ TensorFlow • PyTorch • Scikit-Learn
 Pandas • NumPy • Data Engineering Pipelines  
 Statistical Modeling • Machine Learning • AI Systems
 
+## Featured Research Software
+
+- **S3VS – Structured Screen and Select Variable Selection**  
+  CRAN R package for high-dimensional variable selection and statistical modeling developed for modern large-scale data analysis.  
+  🔗 https://cran.r-project.org/package=S3VS
+
 ## Featured Projects
 
 ### Binary Classification ML Pipeline
