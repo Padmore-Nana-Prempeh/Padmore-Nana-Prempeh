@@ -32,8 +32,8 @@ Statistical Modeling • Machine Learning • AI Systems
 ### Binary Classification ML Pipeline
 Modular machine learning pipeline for model training, evaluation, feature analysis, and threshold optimization.
 
-### Feature Selection Framework
-Comparative analysis of feature selection and regularization methods for high-dimensional predictive modeling.
+### Auction Fraud Detection ML Pipeline
+ML pipeline for detecting fraudulent bidding behavior in online auctions using Logistic Regression, SVM, and XGBoost with model evaluation, threshold optimization, and SHAP explainability.
 
 ### Statistical Simulation Studies
 Large-scale Monte Carlo experiments for evaluating statistical and machine learning algorithms.
